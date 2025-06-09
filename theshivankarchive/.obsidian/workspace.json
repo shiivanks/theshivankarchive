@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "26e1001d06956541",
+    "id": "f4992deb49b2ba0d",
     "type": "split",
     "children": [
       {
-        "id": "603bcf603708d726",
+        "id": "088320cb4fd5f6fd",
         "type": "tabs",
         "children": [
           {
-            "id": "32045f0ca42fc618",
+            "id": "2e483049d5769c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be8b552804ddce67",
+    "id": "be879945aa81d46f",
     "type": "split",
     "children": [
       {
-        "id": "d383621e5f112d0b",
+        "id": "30c6265c9c987b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "1871c24e0e7d7752",
+            "id": "3750455389328a5a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "74a6dce1470f57d0",
+            "id": "6272bb50cce69186",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "c98fefcb997c5051",
+            "id": "53467f4dd0a4857c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "3241be096016b4bd",
+    "id": "5b281211e5e01e74",
     "type": "split",
     "children": [
       {
-        "id": "5d6d00a2e8e7b1ab",
+        "id": "a6982ef2027b4594",
         "type": "tabs",
         "children": [
           {
-            "id": "d35f4d259daf536a",
+            "id": "9260f0fa9a65df42",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "525010d74ac7cd7c",
+            "id": "0ebf55197ec302a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "2c99a28e27ce0861",
+            "id": "4ec1ddac3f103fdb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "cd42647ffaf6b41f",
+            "id": "2e4b57123980071f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -165,18 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32045f0ca42fc618",
-  "lastOpenFiles": [
-    "theshivankarchive/Untitled",
-    "theshivankarchive/MATHEMATICS",
-    "theshivankarchive/BLOGS",
-    "theshivankarchive/About Me.md",
-    "theshivankarchive",
-    "untitled folder",
-    "About Me.md",
-    "README.md",
-    "BLOGS",
-    "MATHEMATICS",
-    "Untitled"
-  ]
+  "active": "2e483049d5769c2f",
+  "lastOpenFiles": []
 }
