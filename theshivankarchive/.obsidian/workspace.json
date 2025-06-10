@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "088320cb4fd5f6fd",
+        "id": "dcb12ecbf4cdc067",
         "type": "tabs",
         "children": [
           {
-            "id": "2e483049d5769c2f",
+            "id": "81c025ab62c175d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,6 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e483049d5769c2f",
-  "lastOpenFiles": []
+  "active": "3750455389328a5a",
+  "lastOpenFiles": [
+    "Clippings/Manchester United F.C. - Wikipedia.md",
+    "Clippings"
+  ]
 }
